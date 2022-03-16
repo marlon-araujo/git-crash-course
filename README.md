@@ -6,6 +6,8 @@
 
 2. Itálicos, Negritos e Negritos Itálicos
 
+3. Parágrafo com destaque
+
 Sempre que escrevermos headers, devemos deixar linhas em branco entre eles. Os headers são representados pelo símbolo #.
 
 Os headers têm 6 níveis que são representados pela quantidade de símbolos escritos. Exemplo:
@@ -31,3 +33,13 @@ Uma palavra cercada por 1 asterisco em cada lado terá seu formato modificado pa
 Uma palavra cercada por 2 asteriscos em cada lado terá seu formato modificado para **negrito**.
 
 Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado para ***negrito/itálico***.
+
+## Parágrafo com destaque
+
+Para escrever um parágrafo com destaque, utilizamos o símbolo >.
+
+> Esse é um parágrafo destacado do resto do texto.
+> Esse aqui também.
+> e assim por diante.
+
+Os paragráfos acima estão destacados do restante do texto escrito.
