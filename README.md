@@ -2,15 +2,21 @@
 
 ## Índice
 
-1. Headers
+[1. Headers](#headers)
 
-2. Itálicos, Negritos e Negritos Itálicos
+[2. Itálicos, Negritos e Negritos Itálicos](#itálicos-negritos-e-negritos-itálicos)
 
-3. Parágrafo com destaque
+[3. Parágrafo com destaque](#parágrafo-com-destaque)
 
-4. Criação de hyperlinks
+[4. Criação de hyperlinks](#criação-de-hyperlinks)
 
-5. Criando snippets de códigos
+[5. Criando referências no próprio Markdown](#criando-referências-no-próprio-markdown)
+
+[6. Criando snippets de código](#criando-snippets-de-código)
+
+[7. Listas Não-Ordenadas](#listas-não-ordenadas)
+
+## Headers
 
 Sempre que escrevermos headers, devemos deixar linhas em branco entre eles. Os headers são representados pelo símbolo #.
 
@@ -28,6 +34,8 @@ Os headers têm 6 níveis que são representados pela quantidade de símbolos es
 
 ###### h6
 
+[Voltar ao índice](#índice)
+
 ## Itálicos, Negritos e Negritos Itálicos
 
 Os negritos e itálicos são representados pelo símbolo * ou _.
@@ -37,6 +45,8 @@ Uma palavra cercada por 1 asterisco em cada lado terá seu formato modificado pa
 Uma palavra cercada por 2 asteriscos em cada lado terá seu formato modificado para **negrito**.
 
 Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado para ***negrito/itálico***.
+
+[Voltar ao índice](#índice)
 
 ## Parágrafo com destaque
 
@@ -48,7 +58,9 @@ Para escrever um parágrafo com destaque, utilizamos o símbolo >.
 
 Os paragráfos acima estão destacados do restante do texto escrito.
 
-## Criação de hyperlinks
+[Voltar ao índice](#índice)
+
+## Criando referências no próprio Markdown
 
 A criação de hyperlinks é feita através dos símbolos [](). Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado.
 Ex: [Google](http://www.google.com)
@@ -85,3 +97,13 @@ document.getElementById("teste");
 "age": 25
 }
 ```
+
+[Voltar ao índice](#índice)
+
+## Listas não-ordenadas
+Para criar listas não-ordenadas, utiliza-se o símbolo - no começo da linha.
+- linha 1
+- linha 2
+- linha 3
+
+[Voltar ao índice](#índice)
