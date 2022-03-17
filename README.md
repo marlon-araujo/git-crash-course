@@ -1,6 +1,6 @@
 # Markdown Tutorial
 
-## Indice
+## Índice
 
 1. Headers
 
